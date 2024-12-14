@@ -1,3 +1,3 @@
 # UserManagement
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Aayushi-10/UserManagement)
+Deployed on: https://zingy-toffee-f9d8c4.netlify.app/ (using Netlify)
